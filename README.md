@@ -1,13 +1,13 @@
 # Installing VirtualBox and Ubuntu
 (last updated 9-12-2019)
 
-1.  Download the latest version of VirtualBox from www.virtualbox.org for your operating system.
+## 1.  Download the latest version of VirtualBox from www.virtualbox.org for your operating system.
 - Install VirtualBox and follow the default prompts for a standard installation. Once the application opens, go to Step 2.
 
-2. Download an .iso file for Ubuntu from https://ubuntu.com/download/desktop
+## 2. Download an .iso file for Ubuntu from https://ubuntu.com/download/desktop
 - There are several options. I recommend the current LTS (Long term support) version, such as Ubuntu 18.04.3 LTS
 
-3.  Create new VM in VirtualBox
+## 3.  Create new VM in VirtualBox
 - On the VirtualBox application, Click the NEW icon
 - Type in the name of your VM (which will be used to create a folder for related files)
 - If you type in "ubuntu" you may see the Type auto-select to Linux and the Version auto-select to Ubuntu (64bit). If these fields do not auto-select, choose them. Then, select Next.
