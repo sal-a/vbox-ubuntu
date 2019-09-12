@@ -1,7 +1,7 @@
 # Installing VirtualBox and Ubuntu
 (last updated 9-12-2019)
 
-Description:  This guide walks through installing VirtualBox v6 and Ubuntu v18-04 with Guest Additions and a shared folder to the host operating system.  A video-walkthrough of this procedure on Windows 10 can be found at [Link] https://youtu.be/gbCtngVNJQY
+Description:  This guide walks through installing VirtualBox v6 and Ubuntu v18-04 with Guest Additions and a shared folder to the host operating system.  A video-walkthrough of this procedure on Windows 10 can be found at https://youtu.be/gbCtngVNJQY
 
 ### 1.  Download the latest version of VirtualBox from www.virtualbox.org for your operating system.
 - Install VirtualBox and follow the default prompts for a standard installation. Once the application opens, go to Step 2.
